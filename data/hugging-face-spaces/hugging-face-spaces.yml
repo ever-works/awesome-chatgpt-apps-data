@@ -1,0 +1,12 @@
+name: "Hugging Face Spaces"
+description: "Free hosting platform for machine learning demos and AI applications. Supports Gradio, Streamlit, and static HTML apps with GPU options. Community and paid tiers."
+source_url: "https://huggingface.co/spaces"
+category: "Hosting & Deployment"
+tags:
+  - "free-plan"
+  - "cloud"
+  - "ai-powered"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/huggingface.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://huggingface.co/spaces>\n"
+updated_at: "2026-11-21 00:57"

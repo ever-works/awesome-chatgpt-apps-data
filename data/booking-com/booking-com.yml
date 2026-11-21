@@ -1,0 +1,13 @@
+name: "Booking.com"
+description: "Official ChatGPT integration for searching hotels, flights, and rental cars. Users can ask travel questions and receive booking options directly in ChatGPT. Free to use; purchases are paid."
+source_url: "https://www.booking.com/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "travel"
+  - "free-plan"
+  - "api"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/www.booking.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.booking.com/>\n"
+updated_at: "2026-11-21 00:57"

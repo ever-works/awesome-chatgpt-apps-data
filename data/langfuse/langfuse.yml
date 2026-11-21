@@ -1,0 +1,13 @@
+name: "Langfuse"
+description: "Open-source observability and analytics platform for LLM applications. Offers tracing, evaluations, and prompt management. Self-hosted or cloud-managed."
+source_url: "https://langfuse.com/"
+category: "Dev & Testing Tools"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/langfuse.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://langfuse.com/>\n- Repository: <https://github.com/langfuse/langfuse>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 00:57"

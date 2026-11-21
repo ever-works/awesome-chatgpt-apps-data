@@ -1,0 +1,12 @@
+name: "Figma"
+description: "ChatGPT plugin for generating and editing Figma designs using text prompts. Supports design creation and iteration within the Figma editor. Free plan available; paid tiers for teams."
+source_url: "https://www.figma.com/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "design"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.figma.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.figma.com/>\n"
+updated_at: "2026-11-21 00:57"

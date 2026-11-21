@@ -1,0 +1,13 @@
+name: "Instacart"
+description: "ChatGPT integration for grocery shopping and meal planning. Users can ask for recipes and add ingredients to an Instacart cart for delivery. Free to use; groceries are paid."
+source_url: "https://www.instacart.com/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "grocery"
+  - "free-plan"
+  - "api"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/www.instacart.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.instacart.com/>\n"
+updated_at: "2026-11-21 00:57"

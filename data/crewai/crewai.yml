@@ -1,0 +1,12 @@
+name: "CrewAI"
+description: "Open-source Python framework for orchestrating role-playing autonomous AI agents. Supports collaborative agent teams and tool use. Apache 2.0 licensed."
+source_url: "https://crewai.com/"
+category: "Community Apps"
+tags:
+  - "open-source"
+  - "api"
+  - "ai-powered"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/crewai.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://crewai.com/>\n- Repository: <https://github.com/crewAIInc/crewAI>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 00:57"

@@ -1,0 +1,12 @@
+name: "LangChain"
+description: "Open-source framework for developing applications powered by language models. Includes tools for chaining models, agents, and data retrieval. MIT licensed."
+source_url: "https://langchain.com/"
+category: "Frameworks & SDKs"
+tags:
+  - "open-source"
+  - "api"
+  - "ai-powered"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/langchain.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://langchain.com/>\n- Repository: <https://github.com/langchain-ai/langchain>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:57"

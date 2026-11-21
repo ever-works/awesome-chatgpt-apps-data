@@ -1,0 +1,12 @@
+name: "mcp-use"
+description: "Open-source Python client library for interacting with Model Context Protocol servers. Enables applications to connect to MCP-compatible tools and data sources. MIT licensed."
+source_url: "https://github.com/mcp-use/mcp-use"
+category: "Community Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/mcp-use/mcp-use>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:57"

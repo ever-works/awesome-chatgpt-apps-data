@@ -1,0 +1,12 @@
+name: "OpenAI API Quickstart"
+description: "Official starter guide and code templates for building applications with the OpenAI API. Includes examples for completions, assistants, and function calling. Free to access."
+source_url: "https://platform.openai.com/"
+category: "Starter Templates"
+tags:
+  - "free-plan"
+  - "api"
+  - "ai-powered"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/platform.openai.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://platform.openai.com/>\n"
+updated_at: "2026-11-21 00:57"

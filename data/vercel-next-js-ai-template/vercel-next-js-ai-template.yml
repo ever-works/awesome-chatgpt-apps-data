@@ -1,0 +1,12 @@
+name: "Vercel Next.js AI Template"
+description: "Official Next.js template from Vercel for building AI-powered web applications using the Vercel AI SDK. Includes chat and streaming UI components. Free to use."
+source_url: "https://vercel.com/"
+category: "Starter Templates"
+tags:
+  - "free-plan"
+  - "api"
+  - "ai-powered"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/vercel.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://vercel.com/>\n"
+updated_at: "2026-11-21 00:57"

@@ -1,0 +1,12 @@
+name: "Spotify"
+description: "ChatGPT integration for discovering music and playlists based on natural language requests. Users can get recommendations and play tracks via Spotify. Free and Premium tiers available."
+source_url: "https://www.spotify.com/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "music"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.spotify.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.spotify.com/>\n"
+updated_at: "2026-11-21 00:57"

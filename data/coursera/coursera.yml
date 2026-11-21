@@ -1,0 +1,12 @@
+name: "Coursera"
+description: "ChatGPT integration for discovering courses and specializations from universities and companies. Users can request recommendations and enroll through Coursera. Free to browse; courses may be paid."
+source_url: "https://www.coursera.org/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "education"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.coursera.org.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.coursera.org/>\n"
+updated_at: "2026-11-21 00:57"

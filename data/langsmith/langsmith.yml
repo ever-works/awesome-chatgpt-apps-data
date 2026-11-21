@@ -1,0 +1,12 @@
+name: "LangSmith"
+description: "Developer platform for tracing, testing, and monitoring LLM applications built with LangChain. Provides debugging and evaluation tools. Paid plans available."
+source_url: "https://smith.langchain.com/"
+category: "Dev & Testing Tools"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/smith.langchain.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://smith.langchain.com/>\n"
+updated_at: "2026-11-21 00:57"

@@ -1,0 +1,12 @@
+name: "Vercel AI SDK"
+description: "Open-source TypeScript SDK for building AI applications with streaming interfaces. Supports React, Next.js, Vue, Svelte, and Node.js. MIT licensed."
+source_url: "https://sdk.vercel.ai/"
+category: "Frameworks & SDKs"
+tags:
+  - "open-source"
+  - "api"
+  - "ai-powered"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/sdk.vercel.ai.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://sdk.vercel.ai/>\n- Repository: <https://github.com/vercel/ai>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:57"

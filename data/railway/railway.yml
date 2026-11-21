@@ -1,0 +1,11 @@
+name: "Railway"
+description: "Cloud deployment platform for hosting web apps, databases, and AI services. Supports Git-based deployments and environment variables. Free tier available."
+source_url: "https://railway.app/"
+category: "Hosting & Deployment"
+tags:
+  - "freemium"
+  - "cloud"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/railway.app.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://railway.app/>\n"
+updated_at: "2026-11-21 00:57"

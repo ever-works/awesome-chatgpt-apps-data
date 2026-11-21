@@ -1,0 +1,13 @@
+name: "Expedia"
+description: "ChatGPT travel plugin for booking hotels, flights, and activities. Users can plan trips and receive itinerary suggestions through conversational queries. Free to use; bookings are paid."
+source_url: "https://www.expedia.com/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "travel"
+  - "free-plan"
+  - "api"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/www.expedia.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.expedia.com/>\n"
+updated_at: "2026-11-21 00:57"

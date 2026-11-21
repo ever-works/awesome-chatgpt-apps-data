@@ -1,0 +1,32 @@
+- id: ai-powered
+  name: "AI-Powered"
+- id: travel
+  name: "Travel"
+- id: free-plan
+  name: "Free Plan"
+- id: api
+  name: "API"
+- id: free
+  name: "Free"
+- id: design
+  name: "Design"
+- id: freemium
+  name: "Freemium"
+- id: education
+  name: "Education"
+- id: music
+  name: "Music"
+- id: real-estate
+  name: "Real Estate"
+- id: grocery
+  name: "Grocery"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: cloud
+  name: "Cloud"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"

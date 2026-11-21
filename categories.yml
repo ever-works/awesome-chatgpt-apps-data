@@ -1,0 +1,12 @@
+- id: partner-apps
+  name: "Partner Apps"
+- id: community-apps
+  name: "Community Apps"
+- id: starter-templates
+  name: "Starter Templates"
+- id: frameworks-and-sdks
+  name: "Frameworks & SDKs"
+- id: hosting-and-deployment
+  name: "Hosting & Deployment"
+- id: dev-and-testing-tools
+  name: "Dev & Testing Tools"

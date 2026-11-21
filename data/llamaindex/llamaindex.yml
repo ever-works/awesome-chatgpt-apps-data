@@ -1,0 +1,12 @@
+name: "LlamaIndex"
+description: "Open-source data framework for connecting large language models to external data. Supports indexing, retrieval, and agent workflows. MIT licensed."
+source_url: "https://www.llamaindex.ai/"
+category: "Frameworks & SDKs"
+tags:
+  - "open-source"
+  - "api"
+  - "ai-powered"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/www.llamaindex.ai.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.llamaindex.ai/>\n- Repository: <https://github.com/run-llama/llama_index>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 00:57"

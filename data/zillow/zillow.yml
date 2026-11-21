@@ -1,0 +1,13 @@
+name: "Zillow"
+description: "ChatGPT plugin for searching homes for sale or rent. Users can ask about listings, prices, and neighborhoods and receive Zillow results. Free to browse."
+source_url: "https://www.zillow.com/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "real-estate"
+  - "free-plan"
+  - "api"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zillow.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.zillow.com/>\n"
+updated_at: "2026-11-21 00:57"

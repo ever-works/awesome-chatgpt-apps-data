@@ -1,0 +1,12 @@
+name: "Promptfoo"
+description: "Open-source testing and evaluation framework for LLM applications. Supports red teaming, benchmarking, and continuous integration. Apache 2.0 licensed."
+source_url: "https://promptfoo.dev/"
+category: "Dev & Testing Tools"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/promptfoo.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://promptfoo.dev/>\n- Repository: <https://github.com/promptfoo/promptfoo>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 00:57"

@@ -1,0 +1,12 @@
+name: "Canva"
+description: "ChatGPT plugin that lets users create designs, presentations, and social media graphics using natural language. Accessible via Canva's free and paid plans. Freemium."
+source_url: "https://www.canva.com/"
+category: "Partner Apps"
+tags:
+  - "ai-powered"
+  - "design"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.canva.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.canva.com/>\n"
+updated_at: "2026-11-21 00:57"
